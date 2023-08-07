@@ -12,8 +12,8 @@ I have knowledge of the following programing languages:
 I have worked on some notable projects including:
 
 * Online academy: A website online learning, using Nodejs and template engine Handlebars
-* Uber RESTful API: Uber APi clone
-* Twitter REST API: API for Uber(Pending...)
+* Uber RESTful API: Uber API clone
+* Twitter RESTful API: API for Twitter(Pending...)
 ...
 # ➕Contact Information
 Email: [tvqhuy07@gmail.com]
