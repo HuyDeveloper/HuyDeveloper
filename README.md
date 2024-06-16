@@ -3,10 +3,9 @@ Hello 👋, I'm Trần Vĩnh Quốc Huy.
 📜I am a software developer and passionate about Infomation technology. I am currently a final-year student in Ho Chi Minh University of Science - VNU. 
 Programing languages
 I have knowledge of the following programing languages:
-* Javascript, TypeScript
-* Python
-* C/C++
+* C#
 * Java
+* Javascript, TypeScript
 ...
 # ➕Projects
 I have worked on some notable projects including:
